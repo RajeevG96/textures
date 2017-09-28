@@ -1,0 +1,1 @@
+"use strict";$(window).load(function(){$(".logo").fadeIn("1000")});var controller=new ScrollMagic.Controller;new ScrollMagic.Scene({duration:100,offset:50}).setPin("#intro").addTo(controller);
